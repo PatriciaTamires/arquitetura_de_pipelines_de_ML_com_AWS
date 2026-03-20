@@ -1,0 +1,10 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,Churn
+1303.0,Female,1,Yes,No,0.0,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,No,Month-to-month,No,Electronic check,70.27,0.0,No
+1002.0,Female,1,No,No,11.0,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,One year,No,Electronic check,61.89,697.42,Yes
+1050.0,Female,0,Yes,Yes,8.0,Yes,No,Fiber optic,Yes,No,No,No,Yes,No,One year,No,Bank transfer (automatic),65.52,549.79,Yes
+1360.9918541780357,Male,1,Yes,No,7.0,Yes,Yes,DSL,Yes,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,56.49723594912967,361.8158049008626,Yes
+1141.0,Male,1,Yes,No,22.0,Yes,No,DSL,Yes,No,No,No,Yes,Yes,Two year,No,Bank transfer (automatic),50.7,1139.8,No
+1011.626866168725,Female,0,No,No,49.0,Yes,No,DSL,Yes,No,Yes,Yes,No,Yes,Month-to-month,No,Electronic check,51.38101589547264,2524.4227625399253,Yes
+1121.0,Female,1,Yes,No,42.0,Yes,Yes,DSL,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Credit card (automatic),50.54,2131.33,No
+1464.0,Male,1,Yes,No,55.0,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,70.49,3867.44,No
+1509.0,Male,0,Yes,Yes,23.0,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,Yes,One year,Yes,Electronic check,71.12,1608.06,No
